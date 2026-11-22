@@ -1,0 +1,13 @@
+round  0: flow 1   4.0 flow 2  30.0 gap  26.0
+round  1: flow 1   5.0 flow 2  31.0 gap  26.0
+round  5: flow 1   4.0 flow 2  17.0 gap  13.0
+round 10: flow 1   9.0 flow 2  22.0 gap  13.0
+round 20: flow 1  11.0 flow 2  17.5 gap   6.5
+round 40: flow 1  11.2 flow 2  12.9 gap   1.6
+round 60: flow 1   9.8 flow 2  10.2 gap   0.4
+round 80: flow 1  18.9 flow 2  19.1 gap   0.2
+alternative starting windows 1 and 39:
+round 0: 1.0, 39.0; gap 38.0
+round 20: 12.5, 22.0; gap 9.5
+round 40: 13.9, 16.2; gap 2.4
+round 80: 10.9, 11.1; gap 0.1
