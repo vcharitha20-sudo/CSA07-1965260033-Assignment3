@@ -1,0 +1,4 @@
+server got: roll 101 present
+server got: roll 102 present
+server got: roll 103 absent
+client got: all 3 received
