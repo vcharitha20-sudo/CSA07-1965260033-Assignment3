@@ -1,0 +1,7 @@
+offered load 6.0 Erlangs
+ 6 lines: blocking 26.49%
+ 8 lines: blocking 12.19%
+10 lines: blocking  4.31%
+12 lines: blocking  1.14%
+lines needed for blocking of 1% or less: 13
+for 180 calls/hour: 17
