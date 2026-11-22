@@ -1,0 +1,4 @@
+TTL   20 s: 180 authoritative queries in 1 hour
+TTL   60 s:  60 authoritative queries in 1 hour
+TTL  300 s:  12 authoritative queries in 1 hour
+TTL 3600 s:   1 authoritative queries in 1 hour
